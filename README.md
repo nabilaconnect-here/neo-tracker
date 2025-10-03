@@ -141,7 +141,4 @@ An info tooltip clarifies this next to the checkbox.
 - Commit `package-lock.json` for reproducible installs.
 - `engines` require Node 18+.
 
----
 
-## License
-MIT (or your preference).
