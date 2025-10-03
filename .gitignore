@@ -1,0 +1,8 @@
+node_modules/
+web/dist/
+coverage/
+.DS_Store
+.env
+.env.*
+api/.env
+web/.env*
